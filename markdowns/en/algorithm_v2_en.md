@@ -1,6 +1,6 @@
-# Alghorithm
+# Algorithm
 
-Alghorithmia is an operation or instruction sequence that allows a problem to be solved or a result to be obtained.
+Algorithmia is an operation or instruction sequence that allows a problem to be solved or a result to be obtained.
 
 Let us take as an example a basic language, C.
 
